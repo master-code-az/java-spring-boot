@@ -198,3 +198,12 @@ Output:
        Your score: 3
        Computer's score: 2
        Congratulations, you win the game!
+
+
+## Task 8
+
+LeetCode sualları
+
+1. https://leetcode.com/problems/palindrome-number/
+2. https://leetcode.com/problems/valid-parentheses/
+3. https://leetcode.com/problems/power-of-twoe
